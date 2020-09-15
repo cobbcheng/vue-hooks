@@ -1,0 +1,34 @@
+{
+  "name": "vue-hooks",
+  "version": "1.0.0",
+  "description": "Vue hooks based on Vue composition api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobbcheng/vue-hooks.git"
+  },
+  "keywords": [
+    "Vue",
+    "hooks",
+    "composition-api"
+  ],
+  "author": "Cobb Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cobbcheng/vue-hooks/issues"
+  },
+  "homepage": "https://github.com/cobbcheng/vue-hooks#readme",
+  "peerDependencies": {
+    "@vue/composition-api": "^1.0.0-beta.13",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.3"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.0.0-beta.13",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.3"
+  }
+}
